@@ -28,6 +28,7 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  p.dotted {border-stlye: solid;}
 }
 
 .topnav a:hover {
