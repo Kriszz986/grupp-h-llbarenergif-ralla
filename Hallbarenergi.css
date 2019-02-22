@@ -48,6 +48,7 @@ body {
 
 .column.middle {
     width: 60%;
+    background-color: white;
 
 }
 
@@ -63,8 +64,9 @@ body {
   .column.side, .column.middle {
     width: 100%;
   } }
+
   .footer {
-    background-color: #F1F1F1;
+    background-color: rgb(0, 0, 0);
     text-align: center;
     padding: 10px;
   }
