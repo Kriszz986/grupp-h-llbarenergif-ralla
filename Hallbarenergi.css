@@ -54,6 +54,7 @@ nav a:hover {
 }
 
 .column.middle {
+    font-size: 20px;
     width: 60%;
     background-color: whitesmoke;
 
