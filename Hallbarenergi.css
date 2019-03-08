@@ -5,6 +5,8 @@
 
 body {
   margin: 0;
+  background-color: whitesmoke;
+  
 }
 
 /* Style the header */
@@ -46,6 +48,8 @@ nav a:hover {
   border: 3px;
   border-style: solid;
   border-bottom: none;
+  border-top: none;
+  border-left: none;
 
 }
 
@@ -67,7 +71,8 @@ nav a:hover {
   .column.side, .column.middle {
     width: 100%;
   } }
-    footer {
+
+    footer  {
       background-color: black;
       text-align: center;
       padding: 10px;
